@@ -6,6 +6,10 @@ import android.support.v4.app.FragmentActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+/**
+ * Created by Anderson on 19/03/2018.
+ */
+
 public class DetalhePaisActivity extends FragmentActivity {
 
     @Override

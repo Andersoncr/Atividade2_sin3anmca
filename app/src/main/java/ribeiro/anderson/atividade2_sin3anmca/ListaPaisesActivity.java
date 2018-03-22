@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+/**
+ * Created by Anderson on 19/03/2018.
+ */
+
 public class ListaPaisesActivity extends AppCompatActivity {
     public static final String PAIS = "ribeiro.anderson.atividade2_sin3anmca.pais";
     Activity atividade;

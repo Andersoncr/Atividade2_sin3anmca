@@ -13,6 +13,10 @@ import android.widget.Toast;
 
 import java.io.IOException;
 
+/**
+ * Created by Anderson on 19/03/2018.
+ */
+
 public class MainActivity extends Activity {
     Spinner spinnerContinente;
     String continente = "all";

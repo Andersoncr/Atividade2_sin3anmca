@@ -6,6 +6,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * Created by Anderson on 19/03/2018.
+ */
+
 public class DetalhePaisFragment extends Fragment {
 
 
